@@ -1,4 +1,4 @@
-# Đề tài: Trang Web Giới Thiệu (Hoặc tên đề tài của bạn)
+# Đề tài: Trang Web Giới Thiệu
 
 ## 1. Giới thiệu dự án
 - Trang web này được xây dựng để hoàn thành bài tập môn Thiết kế Web.
